@@ -20,7 +20,7 @@ Frames are sent to Grok for that one glance. They are not stored.
 ## Run locally
 
 ```bash
-git clone https://github.com/javajam/new.git grok-mirror
+git clone https://github.com/javajam/grok-mirror.git
 cd grok-mirror
 npm install
 npm run dev
